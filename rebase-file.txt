@@ -1,2 +1,2 @@
-hello from rebase-test branch 
 rebasing 
+in branch rebase-test
